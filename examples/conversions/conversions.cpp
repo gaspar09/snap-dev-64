@@ -18,10 +18,9 @@ int main(int argc, char* argv[]) {
   //const char * binaryNGraph = "/lfs/local/0/gaspar09/networks/twitter_rv.ngraph";
   //const char * binaryNEANet = "/lfs/local/0/gaspar09/networks/twitter_rv.neanet";
 
-  binaryUNGraph = "/lfs/local/0/gaspar09/networks/soc-LiveJournal1.graph";
+  //binaryUNGraph = "/lfs/local/0/gaspar09/networks/soc-LiveJournal1.graph";
   //binaryNGraph = "/lfs/local/0/gaspar09/networks/soc-LiveJournal1.ngraph";
   //binaryNEANet = "/lfs/local/0/gaspar09/networks/soc-LiveJournal1.neanet";
-
 
   printf("Benchmark Graph Load Binary\n");
 
